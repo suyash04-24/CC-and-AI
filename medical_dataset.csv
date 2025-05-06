@@ -1,0 +1,6 @@
+fever,cough,fatigue,headache,body_pain,disease,precautions
+1,1,1,0,1,Flu,"Rest and hydrate; Take over-the-counter medication; Stay home to avoid spreading it"
+1,1,1,1,1,Cold,"Stay warm; Drink fluids; Use over-the-counter cold medications"
+0,0,1,0,0,Allergy,"Avoid allergens; Take antihistamines; Consult a doctor for severe reactions"
+1,1,1,1,1,Pneumonia,"Seek immediate medical care; Take prescribed antibiotics; Rest and stay hydrated"
+0,0,0,1,0,Alzheimer's,"Consult a neurologist; Cognitive therapy; Healthy diet and physical activity"
